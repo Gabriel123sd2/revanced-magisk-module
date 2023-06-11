@@ -30,7 +30,7 @@ Patches: revanced-patches-2.175.0.jar
 YouTube: 18.19.35  
 Music (arm64-v8a): 5.39.52  
 Music (arm-v7a): 5.39.52  
-Twitter: 9.92.0-release.0  
+Twitter: 9.92.0-release.0   
 Reddit: 2023.22.0  
 Twitch: 14.6.1  
 TikTok: 29.9.4  
