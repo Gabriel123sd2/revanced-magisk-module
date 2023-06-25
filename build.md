@@ -25,7 +25,7 @@ Music (arm-v7a): 6.07.50
 Twitter: 9.94.0-release.0  
 Reddit: 2023.24.0  
 Twitch: 15.4.1  
-TikTok: 30.1.2  
+TikTok: 30.1.3  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) to be able to use non-root YouTube or Music  
 
