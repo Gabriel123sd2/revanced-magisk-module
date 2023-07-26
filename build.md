@@ -24,7 +24,8 @@ Patches: revanced-patches-2.186.0.jar
   
 **App Versions:**  
 YouTube: 18.23.35  
-Music (arm64-v8a): 6.11.52  
+Music (arm64-v8a): 6.12.52  
+Music (arm-v7a): 6.12.52  
 Reddit: 2023.29.0  
 Twitch: 15.4.1  
 TikTok: 30.5.3  
